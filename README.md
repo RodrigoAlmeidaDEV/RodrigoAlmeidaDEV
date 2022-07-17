@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 👋 
 ![RodrigoAlmeida GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoAlmeidaDEV&show_icons=true&theme=tokyonight)
 
 ## I'm currently studying in
