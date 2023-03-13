@@ -8,5 +8,7 @@
  </div>
  <img aling="center" alt="C#" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  </div><br/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
  
  Enchanted by technology
